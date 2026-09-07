@@ -1,9 +1,9 @@
 ---
 title: "My Entrepreneurial Journey at Geekzwolf"
 layout: default
+nav_order: 5
+has_children: true
 ---
-
-[← Back to portfolio home](/)
 
 -e # My Entrepreneurial Journey at Geekzwolf: Lessons from the Web3 Gaming Frontier
 

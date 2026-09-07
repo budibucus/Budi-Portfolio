@@ -1,9 +1,9 @@
 ---
 title: "My Approach: Vision, Strategy, and Execution"
 layout: default
+parent: Fintech Adventures: Home Credit Indonesia
+nav_order: 1
 ---
-
-[← Back to portfolio home](/)
 
 ### Vision: Crafting a Unified Digital Experience
 

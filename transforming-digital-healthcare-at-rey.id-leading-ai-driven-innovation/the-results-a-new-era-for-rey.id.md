@@ -1,9 +1,9 @@
 ---
 title: "The Results: A New Era for Rey.id"
 layout: default
+parent: Transforming Digital Healthcare at Rey.id
+nav_order: 2
 ---
-
-[← Back to portfolio home](/)
 
 **As VP of Product:**
 

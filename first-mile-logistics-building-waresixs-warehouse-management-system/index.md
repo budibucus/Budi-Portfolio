@@ -1,9 +1,9 @@
 ---
 title: "First Mile Logistics: Operational Tooling at Waresix"
 layout: default
+nav_order: 4
+has_children: true
 ---
-
-[← Back to portfolio home](/)
 
 **Problem:** Waresix's network had grown to 1,000+ enterprise partners, but partner onboarding, contract terms, SLA monitoring, and invoice verification were still largely manual. On top of that, there was no unified system for managing order transactions and the multi-party financial settlements between shippers and transporters.
 

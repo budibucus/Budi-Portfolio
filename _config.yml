@@ -1,5 +1,16 @@
 title: Antonius "Budi" Susilo — Product Portfolio
 description: Senior Product Manager — fintech, logistics, digital health, and Web3
-theme: minima
-permalink: pretty
-markdown: kramdown
+url: "https://budibucus.github.io"
+baseurl: "/Budi-Portfolio"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+nav_sort: case_insensitive
+
+aux_links:
+  "LinkedIn":
+    - "https://www.linkedin.com/in/antonius-budi-susilo-40178035/"

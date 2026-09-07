@@ -1,9 +1,9 @@
 ---
 title: "The Results"
 layout: default
+parent: First Mile Logistics: Operational Tooling at Waresix
+nav_order: 2
 ---
-
-[← Back to portfolio home](/)
 
 * **Operational throughput up 15%** — workflow automation reduced manual verification checks and processing delays across the settlement pipeline.
 * **Partner onboarding time cut from 1.5 months to under 1 month** — internal tooling supported a network of 1,000+ enterprise partners without adding manual review overhead.

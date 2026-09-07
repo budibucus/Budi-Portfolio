@@ -1,9 +1,9 @@
 ---
 title: "Learning from Failure: Key Takeaways as a Startup Founder"
 layout: default
+parent: My Entrepreneurial Journey at Geekzwolf
+nav_order: 2
 ---
-
-[← Back to portfolio home](/)
 
 -e # Learning from Failure: Key Takeaways as a Startup Founder
 

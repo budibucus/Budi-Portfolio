@@ -1,6 +1,7 @@
 ---
 title: "Antonius "Budi" Susilo — Product Manager"
 layout: default
+nav_order: 1
 ---
 
 8+ years building digital platforms across healthcare insurance, fintech, and logistics in Indonesia — turning ambiguous 0→1 problems into shipped systems that move real business metrics.

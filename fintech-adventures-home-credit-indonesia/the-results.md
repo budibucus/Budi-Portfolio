@@ -1,9 +1,9 @@
 ---
 title: "The Results"
 layout: default
+parent: Fintech Adventures: Home Credit Indonesia
+nav_order: 2
 ---
-
-[← Back to portfolio home](/)
 
 **Marketplace:**
 

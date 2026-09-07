@@ -1,9 +1,9 @@
 ---
 title: "My Approach: A User-Centric Digital Transformation"
 layout: default
+parent: Transforming Digital Healthcare at Rey.id
+nav_order: 1
 ---
-
-[← Back to portfolio home](/)
 
 I led the revamp of Rey.id's platform around three pillars: user-centric design, AI-driven automation, and a data-driven approach to service delivery — later extending into AI claims automation and enterprise partnerships as Product Consultant.
 

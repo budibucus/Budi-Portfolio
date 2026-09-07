@@ -1,9 +1,9 @@
 ---
 title: "My Approach: Operational Tooling and Order Management"
 layout: default
+parent: First Mile Logistics: Operational Tooling at Waresix
+nav_order: 1
 ---
-
-[← Back to portfolio home](/)
 
 **1. Internal operational tooling**
 

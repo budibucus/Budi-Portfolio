@@ -1,9 +1,9 @@
 ---
 title: "The Experimental Era of Web3 Games"
 layout: default
+parent: My Entrepreneurial Journey at Geekzwolf
+nav_order: 1
 ---
-
-[← Back to portfolio home](/)
 
 **The promise, and the harsh reality**
 
