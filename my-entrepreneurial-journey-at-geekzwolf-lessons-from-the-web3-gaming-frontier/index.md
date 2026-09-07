@@ -17,4 +17,4 @@ layout: default
 
 *Note: Geekzwolf is included here as an independent venture pursued alongside my core product management career — it isn't listed as a formal role on my CV, but I think it's some of the most instructive work in this portfolio, so it stays.*
 
-
+![Geekzwolf business model](../Asset/Image/Geekzwolf/Geekzwolf%20Businessmodel.avif) ![Geekzwolf co-invest platform](../Asset/Image/Geekzwolf/Geekzwolf%20Coinvest%20Platform.avif)

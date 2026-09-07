@@ -16,3 +16,5 @@ Then came the second blow: gaming token prices collapsed. Geekzwolf's co-investm
 **Onboarding Web3 studios to Indonesia: a tough road**
 
 One core strategy was bringing Web3 game studios into Indonesia's gaming market. In practice, most of the studios we worked with were still testing their games — none had something fully developed or market-ready. Their focus was tokenomics over gameplay, so when the token economy collapsed, there was little left to keep players engaged.
+
+ ![Onramp/offramp to Web3 games](../Asset/Image/Geekzwolf/Onram-Offramp%20to%20web3%20game%20Geekzwolf.avif) ![Promoting Web3 game studios](../Asset/Image/Geekzwolf/Promoting%20Web3Gamestudio%20Geekzwolf.avif)

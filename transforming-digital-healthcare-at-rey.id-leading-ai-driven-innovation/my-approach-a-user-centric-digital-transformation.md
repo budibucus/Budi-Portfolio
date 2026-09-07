@@ -31,3 +31,7 @@ Owned end-to-end product definition for enterprise client onboarding — transla
 **4. Data-driven decision making**
 
 Every decision was backed by data — funnel instrumentation and analytics (Mixpanel) let the team iterate on real behavioural data rather than assumption, across usage patterns, feedback, and service efficiency.
+
+![Doctor chat feature](../Asset/Image/Rey/Doctor%20Chat%20Reyid.avif)
+![Add to cart flow](../Asset/Image/Rey/Add%20to%20cart%20reyid.avif)
+![B2B enterprise dashboard](../Asset/Image/Rey/B2B%20dashboard%20reyid.avif)

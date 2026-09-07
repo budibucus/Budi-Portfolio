@@ -28,3 +28,5 @@ Key elements of the vision:
 2. **Phase 2 — Testing and feedback loops.** A/B testing and continuous feedback once live, driving iteration on UI/UX, recommendations, and payment flows.
 3. **Phase 3 — Scaling and expansion.** Once the MVP was validated, we layered in personalized recommendations, deeper financing integration, and expanded categories through partnerships — while investing in performance to handle growing traffic.
 4. **Phase 4 — Marketing and user education.** In-app notifications, email, and social campaigns to drive awareness and adoption of the new marketplace features.
+
+![Home Credit onboarding flow](../Asset/Image/Homecredit/Flow%20user%20journey%20Homecredit%20onboarding.avif) ![Home Credit application form](../Asset/Image/Homecredit/Application%20Form%20Homecredit.avif)
