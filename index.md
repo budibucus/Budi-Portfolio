@@ -1,23 +1,25 @@
 ---
-title: "Antonius "Budi" Susilo — Product Manager"
+title: "Antonius \"Budi\" Susilo — Product Manager"
 layout: default
 nav_order: 1
 ---
 
-8+ years building digital platforms across healthcare insurance, fintech, and logistics in Indonesia — turning ambiguous 0→1 problems into shipped systems that move real business metrics.
+## My story
 
-I'm a senior product manager with a track record of owning products end-to-end: from strategy and roadmap through execution, launch, and the messy post-launch iteration that actually determines whether something sticks. Most recently at Rey.id, I led the product team across telehealth, insurance, and payments — delivering AI-powered claims automation for a state-owned insurer and an embedded insurance partnership that onboarded 200,000+ users. Earlier, I launched a marketplace at Home Credit that generated $500K GMV in its first year, and built the internal tooling and order management systems that helped Waresix scale its partner network past 1,000 enterprise accounts. My expertise is product strategy, cross-functional delivery, and building in regulated environments where compliance and user experience have to work together.
+I didn't start in product. I spent six years in commercial and category roles at Bukalapak, L'Oréal, and Philip Morris — learning how business decisions actually get made, how to manage stakeholders who don't report to you, and how to drive a number that matters to the P&L. That foundation is why I've never been a PM who ships features for their own sake; I ship things tied to a business outcome, because that's the only kind of product work I was trained to trust.
 
-This portfolio walks through four of those product journeys — the problem, my approach, and the measurable result — so you can see how I think, not just what I shipped.
+Since moving into product in 2019, each role has built on the last in a fairly deliberate way. At **Home Credit**, I learned to build inside a regulated fintech environment — a digital financing journey and marketplace serving a 50M+ user platform, where a scoring mistake or a fraud gap has real financial consequences. At **Waresix**, I learned to build for *scale* — internal tooling and an order management system supporting a partner network that grew past 1,000 enterprise accounts, where the hardest problems were operational, not technical. In between, I took a real swing at building something of my own at **Geekzwolf**, a Web3 gaming venture — it didn't work, but it taught me more about timing and product-market fit than most of my successes did. Most recently at **Rey.id**, all of that came together: building AI-powered automation inside a regulated healthcare and insurance platform, where compliance, trust, and user experience all have to hold at once.
+
+This portfolio walks through four of those journeys — the situation, the problem, what I actually did, and the measurable result — so you can see how I think, not just what I shipped.
 
 ## Track record at a glance
 
 | Company | Role | What I owned | Result |
 |---|---|---|---|
-| [Rey.id](transforming-digital-healthcare-at-rey.id-leading-ai-driven-innovation/) | VP of Product → Product Consultant | Telehealth, insurance & payments roadmap; AI claims automation | Scaled to $1M GMV/100K users in 12mo; claims processing cut from 2 months to <3 days; 200K+ users onboarded via telco partnership |
-| [Home Credit Indonesia](fintech-adventures-home-credit-indonesia/) | Senior Product Manager | Digital financing journey; marketplace launch | $500K GMV in year one; 40% faster application completion |
-| [Waresix](first-mile-logistics-building-waresixs-warehouse-management-system/) | Senior Product Manager | Internal operational tooling; order management system | Throughput up 15%; partner onboarding cut from 1.5mo to <1mo across 1,000+ partners |
+| [Rey.id](transforming-digital-healthcare-at-rey.id-leading-ai-driven-innovation/) | VP of Product → Product Consultant (2023–2025) | Telehealth, insurance & payments roadmap; AI claims automation | Scaled to $1M GMV/100K users in 12mo; claims processing cut from 2 months to <3 days; 200K+ users onboarded via telco partnership |
 | [Geekzwolf](my-entrepreneurial-journey-at-geekzwolf-lessons-from-the-web3-gaming-frontier/) *(side venture)* | Co-founder & CPO | Web3 co-investing platform for SEA gamers | Ahead of market timing; documented post-mortem on token volatility & PMF |
+| [Waresix](first-mile-logistics-building-waresixs-warehouse-management-system/) | Senior Product Manager (2021–2022) | Internal operational tooling; order management system | Throughput up 15%; partner onboarding cut from 1.5mo to <1mo across 1,000+ partners |
+| [Home Credit Indonesia](fintech-adventures-home-credit-indonesia/) | Senior Product Manager (2019–2021) | Digital financing journey; marketplace launch | $500K GMV in year one; 40% faster application completion |
 
 ## How I work
 

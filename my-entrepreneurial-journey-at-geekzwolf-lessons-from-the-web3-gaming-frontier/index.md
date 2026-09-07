@@ -1,20 +1,19 @@
 ---
 title: "My Entrepreneurial Journey at Geekzwolf"
 layout: default
-nav_order: 5
+nav_order: 3
 has_children: true
 ---
 
--e # My Entrepreneurial Journey at Geekzwolf: Lessons from the Web3 Gaming Frontier
+**Situation:** In between my time at Waresix and Rey.id, I took a real bet: Web3 gaming was emerging, and the promise — players truly owning and earning from their in-game assets — looked like a genuine shift in how games could work. I co-founded Geekzwolf to bring that shift to Southeast Asian gamers.
 
-**Problem:** Web3 gaming was in its experimental phase — the promise of players truly owning in-game assets via blockchain was real, but the surrounding ecosystem (infrastructure, sustainable game design, audience readiness) hadn't matured to support it yet.
+**Problem:** The market was ahead of the ecosystem. Most Web3 game studios were building tokenomics, not games people actually wanted to play — the fun wasn't there yet, only the incentive layer. And our own business model, a co-investing platform where gamers and investors pooled resources into gaming guilds, only worked while token prices held up. Both problems compounded each other: without compelling games, engagement depended on token rewards; when token prices crashed, both the games and the business model lost their reason to exist at the same time.
 
-**My role:** As Co-founder and Chief Product Officer, I set the product vision and built a co-investing platform aimed at bringing Southeast Asian gamers into the Web3 space — spanning both the product itself and the entrepreneurial decisions that came with running a startup.
+**Action:** As Co-founder and Chief Product Officer, I set the product vision and built the co-investing platform, and led our push to onboard Web3 game studios into Indonesia specifically — believing local market entry could be a differentiator. When the cracks showed, I didn't treat it as a footnote to move past quickly. I documented it directly, because the specific lessons — on timing, on chasing hype over gameplay, on how fast a token-dependent model can unravel — are worth more to a hiring manager than another highlight reel.
 
-**Result:** Geekzwolf didn't reach the scale we set out for. The market moved before the ecosystem — and the business model — was ready: token volatility undercut the revenue model, and we leaned too hard on token incentives instead of making the games themselves compelling enough to hold a real audience. Rather than treat that as a footnote, I've documented it directly — see [Learning from Failure](learning-from-failure-key-takeaways-as-a-startup-founder/) for the specific, hard-won takeaways on timing, product-market fit, and building outside of hype cycles.
-
-*This kind of candor is a deliberate choice: hiring managers evaluating a senior PM want to see how you reason about a miss, not just a highlight reel of wins.*
+**Result:** Geekzwolf didn't reach the scale we set out for. But it sharpened how I evaluate a market and a business model ever since — specifically, treating "is the ecosystem ready" as its own diligence question, separate from "is the idea good." See [The Experimental Era of Web3 Games](the-experimental-era-of-web3-games-1/) and [Learning from Failure](learning-from-failure-key-takeaways-as-a-startup-founder/) for the specific, hard-won takeaways.
 
 *Note: Geekzwolf is included here as an independent venture pursued alongside my core product management career — it isn't listed as a formal role on my CV, but I think it's some of the most instructive work in this portfolio, so it stays.*
 
-![Geekzwolf business model](../Asset/Image/Geekzwolf/Geekzwolf%20Businessmodel.avif) ![Geekzwolf co-invest platform](../Asset/Image/Geekzwolf/Geekzwolf%20Coinvest%20Platform.avif)
+![Geekzwolf business model](../Asset/Image/Geekzwolf/Geekzwolf%20Businessmodel.avif)
+![Geekzwolf co-invest platform](../Asset/Image/Geekzwolf/Geekzwolf%20Coinvest%20Platform.avif)
