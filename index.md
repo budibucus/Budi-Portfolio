@@ -10,7 +10,7 @@ I didn't start in product. I spent six years in commercial and category roles at
 
 Since moving into product in 2019, each role has built on the last in a fairly deliberate way. At **Home Credit**, I learned to build inside a regulated fintech environment — a digital financing journey and marketplace serving a 50M+ user platform, where a scoring mistake or a fraud gap has real financial consequences. At **Waresix**, I learned to build for *scale* — internal tooling and an order management system supporting a partner network that grew past 1,000 enterprise accounts, where the hardest problems were operational, not technical. In between, I took a real swing at building something of my own at **Geekzwolf**, a Web3 gaming venture — it didn't work, but it taught me more about timing and product-market fit than most of my successes did. Most recently at **Rey.id**, all of that came together: building AI-powered automation inside a regulated healthcare and insurance platform, where compliance, trust, and user experience all have to hold at once.
 
-This portfolio walks through four of those journeys — the situation, the problem, what I actually did, and the measurable result — so you can see how I think, not just what I shipped.
+This portfolio walks through four of those journeys as stories — where each one started, what made it hard, the calls I made along the way, and where it landed — so you can see how I think, not just what I shipped.
 
 ## Track record at a glance
 
