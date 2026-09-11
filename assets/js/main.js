@@ -22,3 +22,20 @@
   }, { rootMargin: '0px 0px -10% 0px' });
   els.forEach(function (el) { io.observe(el); });
 })();
+
+// Blog tag filter — pills with [data-filter] toggle .post-row[data-tag] visibility.
+(function () {
+  var pills = document.querySelectorAll('.tag-pill');
+  var rows = document.querySelectorAll('.post-row');
+  if (!pills.length || !rows.length) return;
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function () {
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      pill.classList.add('is-active');
+      var tag = pill.getAttribute('data-filter');
+      rows.forEach(function (row) {
+        row.hidden = tag !== 'all' && row.getAttribute('data-tag') !== tag;
+      });
+    });
+  });
+})();

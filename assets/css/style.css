@@ -303,6 +303,117 @@ h1, h2, h3, h4 {
 .cs-nav .next { text-align: right; }
 .cs-nav b { display: block; font-family: var(--font-display); font-size: 1.1rem; color: var(--ink); letter-spacing: -0.01em; margin-top: 4px; }
 
+/* ==========================================================================
+   Blog / writing
+   ========================================================================== */
+.blog-head { padding-top: clamp(48px, 10vh, 96px); padding-bottom: clamp(32px, 6vh, 56px); }
+.blog-head h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-bottom: 18px; }
+.blog-head__lede { font-size: clamp(1rem, 1.5vw, 1.15rem); color: var(--muted); max-width: 56ch; }
+
+.tag-badge {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-ink);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  padding: 5px 10px;
+  border-radius: 999px;
+}
+
+.tag-filter { display: flex; flex-wrap: wrap; gap: 8px; margin: 36px 0 8px; }
+.tag-pill {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  padding: 7px 16px;
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.tag-pill:hover { border-color: var(--ink); color: var(--ink); }
+.tag-pill.is-active { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+
+.post-list { border-top: 1px solid var(--hairline); }
+.post-row {
+  display: grid;
+  grid-template-columns: 140px 1fr auto;
+  gap: clamp(16px, 3vw, 32px);
+  align-items: baseline;
+  padding: clamp(22px, 4vh, 32px) 0;
+  border-bottom: 1px solid var(--hairline);
+  text-decoration: none;
+  color: inherit;
+}
+.post-row__date { font-size: 13px; color: var(--muted); white-space: nowrap; }
+.post-row__body { min-width: 0; }
+.post-row__title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  letter-spacing: -0.01em;
+  margin: 0 0 8px;
+  transition: color .15s ease;
+}
+.post-row:hover .post-row__title { color: var(--accent); }
+.post-row__excerpt { color: var(--muted); font-size: 15px; margin: 0; max-width: 62ch; }
+.post-row__arrow { font-size: 14px; color: var(--muted); opacity: 0; transform: translateX(-6px); transition: opacity .15s ease, transform .15s ease; align-self: center; }
+.post-row:hover .post-row__arrow { opacity: 1; transform: none; }
+@media (max-width: 680px) {
+  .post-row { grid-template-columns: 1fr; gap: 8px; }
+  .post-row__arrow { display: none; }
+}
+
+.empty-state {
+  text-align: center;
+  padding: clamp(48px, 10vh, 96px) 20px;
+  color: var(--muted);
+  border: 1px dashed var(--hairline);
+  border-radius: 16px;
+}
+.empty-state p { margin: 0 auto; max-width: 44ch; }
+.empty-state a { color: var(--accent); }
+
+/* individual post header */
+.post-head { padding-top: clamp(32px, 6vh, 64px); padding-bottom: clamp(32px, 6vh, 64px); }
+.post-head h1 { font-size: clamp(2rem, 5vw, 3.1rem); max-width: 22ch; margin: 22px 0 16px; }
+.post-head__meta { font-size: 14px; color: var(--muted); }
+.post-head__meta span { margin: 0 8px; }
+
+.prose blockquote {
+  margin: 32px 0;
+  padding: 4px 0 4px 22px;
+  border-left: 3px solid var(--accent);
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.88em;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: 5px;
+  padding: 0.1em 0.4em;
+}
+.prose pre {
+  background: var(--ink);
+  color: var(--bg);
+  padding: 20px 22px;
+  border-radius: 12px;
+  overflow-x: auto;
+  margin: 32px 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.prose pre code { background: none; border: 0; padding: 0; color: inherit; }
+
 /* --- scroll-in animation ------------------------------------------- */
 .reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
 .reveal.is-in { opacity: 1; transform: none; }

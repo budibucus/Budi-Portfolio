@@ -1,0 +1,117 @@
+<!--
+  BLOG POST TEMPLATE — not a real page, not linked anywhere.
+
+  To publish a new post:
+    1. Duplicate this file to blog/your-post-slug/index.html
+       (slug = short, hyphenated, matches the URL: /blog/your-post-slug/)
+    2. Fill in the <title>, meta description, tag, date, read time, h1, and body below.
+    3. Delete this comment block once you're done.
+    4. Add a row for it in blog/index.html's .post-list (copy the commented template there),
+       and remove/keep the #empty-state div depending on whether any posts exist yet.
+    5. If it's a new tag, add a matching <button class="tag-pill"> in blog/index.html too.
+    6. Update the <a class="prev">/<a class="next"> links at the bottom to chain to your other
+       posts (or delete that block if this is your only post so far).
+
+  See README.md for the full checklist.
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Your Post Title · Budi Susilo</title>
+  <meta name="description" content="A one-sentence summary of the post for search results and link previews.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23141414'/%3E%3Ctext x='50' y='68' font-family='Georgia,serif' font-size='58' fill='%23FBFAF8' text-anchor='middle'%3EB%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav__inner">
+      <a href="../../" class="nav__name">Budi Susilo</a>
+      <div class="nav__links">
+        <a href="../../#work">Work</a>
+        <a href="../">Writing</a>
+        <a href="../../#about" class="is-optional">About</a>
+        <a href="mailto:abudi.susilo14@gmail.com">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <article>
+
+      <header class="post-head wrap">
+        <a class="cs-back" href="../">&larr; All writing</a>
+        <span class="tag-badge" style="margin-top:26px; display:inline-block;">Product</span>
+        <h1>Your post title goes here</h1>
+        <p class="post-head__meta">January 2026<span>·</span>6 min read</p>
+      </header>
+
+      <!-- Optional cover image — delete this whole .wrap block if the post doesn't need one.
+      <div class="wrap">
+        <div class="cs-hero-img reveal">
+          <img src="../../Asset/Image/your-image.avif" alt="Describe the image">
+        </div>
+      </div>
+      -->
+
+      <div class="section wrap">
+        <div class="prose">
+
+          <p>Open with the thing that made you want to write this — a moment, a question, a decision
+            that went sideways. Keep the first paragraph short.</p>
+
+          <h2>A section heading</h2>
+          <p>Body copy. Write like you talk. Bold the odd <strong>key phrase</strong>, not every
+            phrase.</p>
+
+          <blockquote>A short, quotable line you want to stand out.</blockquote>
+
+          <p>More body copy. Use an ordinary list only when it's genuinely a list of things, not as
+            a substitute for a sentence:</p>
+          <ul>
+            <li>Like this</li>
+            <li>And this</li>
+          </ul>
+
+          <!-- Code sample, if relevant to the post:
+          <pre><code>const example = true;</code></pre>
+          -->
+
+          <h2>Where it landed</h2>
+          <p>Close with the takeaway — what you'd tell someone facing the same decision.</p>
+
+        </div>
+      </div>
+
+      <hr class="rule">
+      <nav class="section--tight wrap cs-nav">
+        <a class="prev" href="../">&larr; Previous<b>All writing</b></a>
+        <a class="next" href="../">More writing &rarr;<b>All writing</b></a>
+      </nav>
+
+    </article>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <h2>Let's talk.</h2>
+      <div class="footer__links">
+        <a href="mailto:abudi.susilo14@gmail.com">abudi.susilo14@gmail.com</a>
+        <a href="https://www.linkedin.com/in/antonius-budi-susilo-40178035/" target="_blank" rel="noopener">LinkedIn</a>
+        <span>Jakarta, Indonesia</span>
+      </div>
+      <div class="footer__base">
+        <span>Antonius "Budi" Susilo</span>
+        <span>&copy; 2025</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../../assets/js/main.js"></script>
+</body>
+</html>
